@@ -1,4 +1,5 @@
 while True:
+    print('Welcome To The Command Line Calculator!')
     num1 = input('Enter First Number: ')
 
     operator = input('Enter Operator (+, -, *, /): ')
